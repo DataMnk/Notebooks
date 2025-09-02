@@ -37,9 +37,19 @@ Machine_Learning/
 ---
 -->
 ## 🔗 Quick Links
-- [View CV Week 1 on nbviewer](https://nbviewer.org/github/DataMnk/Notebooks/blob/main/Computer_Vision/Week1_Intro/CV_week1_intro.ipynb)  
-- [View NLP Week 1 on nbviewer](https://nbviewer.org/github/DataMnk/Notebooks/blob/main/NLP/Week1_Intro/NLP_week1_intro.ipynb)  
-- [View ML Week 1 on nbviewer](https://nbviewer.org/github/DataMnk/Notebooks/blob/main/Machine_Learning/Week1_Intro/ML_week1_intro.ipynb)  
+
+### Computer Vision
+- [CV Week 1 on nbviewer](https://nbviewer.org/github/DataMnk/Notebooks/blob/main/Computer_Vision/CV_week1_intro.ipynb)
+- [CV Week 1 on Colab](https://colab.research.google.com/github/DataMnk/Notebooks/blob/main/Computer_Vision/CV_week1_intro.ipynb)
+
+### NLP
+- [NLP Week 1 on nbviewer](https://nbviewer.org/github/DataMnk/Notebooks/blob/main/NLP/NLP_week1_intro.ipynb)
+- [NLP Week 1 on Colab](https://colab.research.google.com/github/DataMnk/Notebooks/blob/main/NLP/NLP_week1_intro.ipynb)
+
+### Machine Learning
+- [ML Week 1 on nbviewer](https://nbviewer.org/github/DataMnk/Notebooks/blob/main/Machine_Learning/ML_week1_intro.ipynb)
+- [ML Week 1 on Colab](https://colab.research.google.com/github/DataMnk/Notebooks/blob/main/Machine_Learning/ML_week1_intro.ipynb)
+
 
 ---
 ✨ Stay tuned for weekly updates!
